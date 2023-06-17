@@ -1,3 +1,6 @@
+// compile rust file with 'rustc main.rs'
+// run executable with './main'
+
 // fn = function
 // main() is executed automatically when ran
 fn main() {
